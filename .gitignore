@@ -1,0 +1,9 @@
+# 忽略文件夹  
+.metadata/
+RemoteSystemsTempFiles/
+timer_with_BRAM_wrapper/
+timer_bram_app_system/
+
+# 忽略文件
+*.analytics
+*.log

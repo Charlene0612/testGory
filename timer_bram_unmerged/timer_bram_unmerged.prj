@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="timer_bram_unmerged" location="E:/vivado_data/timer_with_BRAM_editCLK/vitis3_maxCH/timer_bram_unmerged" platform="E:/vivado_data/timer_with_BRAM_editCLK/vitis3_maxCH/timer_with_BRAM_wrapper/export/timer_with_BRAM_wrapper/timer_with_BRAM_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="timer_bram_unmerged_system" sysConfig="timer_with_BRAM_wrapper" runtime="cpp" cpu="standalone_psu_cortexa53_0" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="1fd40495f8e347f678324f2514d76002">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1505367398">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.1069652584" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
